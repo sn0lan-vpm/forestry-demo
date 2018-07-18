@@ -10,15 +10,12 @@ collections:
 - path: _projects
   label: Projects
   create: all
-  default_front_matter_template: project
 - path: _people
   label: People
   create: all
-  default_front_matter_template: person
 - path: _posts
   label: Posts
   create: all
-  default_front_matter_template: post
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
